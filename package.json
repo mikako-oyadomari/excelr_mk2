@@ -1,0 +1,19 @@
+{
+  "name": "excelr_mk2",
+  "version": "1.0.1",
+  "description": "エクセルからデータを抜き取り、htmlを生成します。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "hirofumi.i",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^0.3.0",
+    "js-beautify": "^1.6.8",
+    "mkdirp": "^0.5.1",
+    "nunjucks": "^3.0.0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "data": "data.xlsx",
+    "template_path": "./templates/index.html",
+    "start_row": 2,
+    "total_row": 36,
+    "total_column": 5
+}
