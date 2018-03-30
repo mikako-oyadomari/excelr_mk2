@@ -11,7 +11,7 @@
   "author": "hirofumi.i",
   "license": "ISC",
   "dependencies": {
-    "exceljs": "^0.3.0",
+    "exceljs": "^1.1.0",
     "js-beautify": "^1.6.8",
     "mkdirp": "^0.5.1",
     "nunjucks": "^3.0.0"
